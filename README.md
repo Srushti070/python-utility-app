@@ -1,4 +1,4 @@
-# 🧰 Python Utility App
+#  Python Utility App
 This project is a collection of Python mini applications built using core programming concepts like functions, modules, and packages.
 It includes utilities for:
 * Math operations
