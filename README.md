@@ -49,7 +49,7 @@ python date_and_time/datetime_mini_app.py
 ```
 ## 🧠 Concepts Used
 * Functions and modular programming
-* Python built-in modules (`math`, `random`, `datetime`)
+* Python built-in modules 
 * Conditional logic (if-else)
 * User input handling
 * CLI-based applications
