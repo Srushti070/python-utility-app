@@ -6,14 +6,14 @@ It includes utilities for:
 * Date & time processing
 ---
 ## 🚀 Features
-### 🔢 Math Module
+#### 🔢 Math Module
 * Square root, factorial, power
 * GCD and LCM
 * Logarithmic functions
 * Trigonometry (sin, cos, tan)
 * Distance calculation
 ---
-### 🎲 Random Module
+#### 🎲 Random Module
 * OTP generator
 * Dice simulator
 * Lottery number generator
@@ -21,7 +21,7 @@ It includes utilities for:
 * Team splitter
 * Random selections (student, color, etc.)
 ---
-### 📅 Date & Time Module
+#### 📅 Date & Time Module
 * Current date & time
 * Date formatting
 * Days between dates
